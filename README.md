@@ -1,2 +1,1 @@
-# TH-KyThuatLapTrinh
- Bài tập Kỹ Thuật Lập Trình
+Bài tập Kỹ Thuật lập trình
