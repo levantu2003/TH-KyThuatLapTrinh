@@ -1,13 +1,2 @@
-﻿  Bai10.cpp
-  Bai11.cpp
-  Generating Code...
-C:\Users\Kaiser\Documents\GitHub\TH-KyThuatLapTrinh\Buoi1\Bai11.cpp(19,10): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 3 has type 'int *'
-C:\Users\Kaiser\Documents\GitHub\TH-KyThuatLapTrinh\Buoi1\Bai11.cpp(19,10): warning C4313: 'printf': '%x' in format string conflicts with argument 3 of type 'int *'
-C:\Users\Kaiser\Documents\GitHub\TH-KyThuatLapTrinh\Buoi1\Bai11.cpp(33,9): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 2 has type 'int *'
-C:\Users\Kaiser\Documents\GitHub\TH-KyThuatLapTrinh\Buoi1\Bai11.cpp(33,9): warning C4313: 'printf': '%x' in format string conflicts with argument 2 of type 'int *'
-C:\Users\Kaiser\Documents\GitHub\TH-KyThuatLapTrinh\Buoi1\Bai11.cpp(58,10): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'int *'
-C:\Users\Kaiser\Documents\GitHub\TH-KyThuatLapTrinh\Buoi1\Bai11.cpp(58,10): warning C4313: 'printf': '%x' in format string conflicts with argument 1 of type 'int *'
-C:\Users\Kaiser\Documents\GitHub\TH-KyThuatLapTrinh\Buoi1\Bai11.cpp(66,10): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'int *'
-C:\Users\Kaiser\Documents\GitHub\TH-KyThuatLapTrinh\Buoi1\Bai11.cpp(66,10): warning C4313: 'printf': '%x' in format string conflicts with argument 1 of type 'int *'
-C:\Users\Kaiser\Documents\GitHub\TH-KyThuatLapTrinh\Buoi1\Bai11.cpp(115,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+﻿  Bai12.cpp
   Buoi1.vcxproj -> C:\Users\Kaiser\Documents\GitHub\TH-KyThuatLapTrinh\Buoi1\x64\Debug\Buoi1.exe

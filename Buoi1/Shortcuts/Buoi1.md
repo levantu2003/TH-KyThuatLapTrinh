@@ -50,5 +50,10 @@
 
 + Bài 11:
     + Kết quả
-    
+
     https://github.com/user-attachments/assets/5430620c-a4c9-484b-93cb-ef11a1b2ac87
+
++ Bài 12:
+    + Kết quả
+
+    https://github.com/user-attachments/assets/fa229d78-8106-46f5-b958-9a192dc8b35b
