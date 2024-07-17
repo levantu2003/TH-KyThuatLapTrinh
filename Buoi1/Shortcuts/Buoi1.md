@@ -27,3 +27,8 @@
     + Kết quả
 
     https://github.com/user-attachments/assets/27875dfc-1195-41ff-a7f6-333ddde7287a
+
++ Bài 7:
+    + Kết quả
+
+    https://github.com/user-attachments/assets/55e208a4-aeeb-433f-938a-1f8ff0c2be22
