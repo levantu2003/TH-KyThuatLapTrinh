@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{824FE80F-8AC0-479B-959F-E43B2853DF26}|Buoi1.vcxproj|C:\\Users\\Kaiser\\Documents\\GitHub\\TH-KyThuatLapTrinh\\Buoi1\\Bai1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{824FE80F-8AC0-479B-959F-E43B2853DF26}|Buoi1.vcxproj|solutionrelative:Bai1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{824FE80F-8AC0-479B-959F-E43B2853DF26}|Buoi1.vcxproj|C:\\Users\\Kaiser\\Documents\\GitHub\\TH-KyThuatLapTrinh\\Buoi1\\Bai2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{824FE80F-8AC0-479B-959F-E43B2853DF26}|Buoi1.vcxproj|solutionrelative:Bai2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,9 +28,22 @@
               "RelativeDocumentMoniker": "Bai1.cpp",
               "ToolTip": "C:\\Users\\Kaiser\\Documents\\GitHub\\TH-KyThuatLapTrinh\\Buoi1\\Bai1.cpp",
               "RelativeToolTip": "Bai1.cpp",
-              "ViewState": "AQIAAA4AAAAAAAAAAIAzwBcAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-07-17T06:02:30.838Z",
+              "WhenOpened": "2024-07-17T07:23:29.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bai2.cpp",
+              "DocumentMoniker": "C:\\Users\\Kaiser\\Documents\\GitHub\\TH-KyThuatLapTrinh\\Buoi1\\Bai2.cpp",
+              "RelativeDocumentMoniker": "Bai2.cpp",
+              "ToolTip": "C:\\Users\\Kaiser\\Documents\\GitHub\\TH-KyThuatLapTrinh\\Buoi1\\Bai2.cpp",
+              "RelativeToolTip": "Bai2.cpp",
+              "ViewState": "AQIAABYAAAAAAAAAAIAzwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-17T07:05:36.335Z",
               "EditorCaption": ""
             }
           ]
