@@ -132,6 +132,7 @@
     <ClCompile Include="Bai3.cpp" />
     <ClCompile Include="Bai4.cpp" />
     <ClCompile Include="Bai5.cpp" />
+    <ClCompile Include="Bai6.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
