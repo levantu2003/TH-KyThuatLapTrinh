@@ -1,6 +1,6 @@
 <h1>Kết quả môn Kỹ Thuật Lập Trình</h1>
 
-<h2>[Buổi 1]()</h2>
+[Buoi1](https://github.com/levantu2003/TH-KyThuatLapTrinh/blob/main/Buoi1/Shortcuts/Buoi1.md)
 
   
 
