@@ -38,3 +38,7 @@
 
     https://github.com/user-attachments/assets/108d0a3e-3fa4-4352-b681-494722ea8e4e
     
++ Bài 9:
+    + Kết quả
+
+    https://github.com/user-attachments/assets/3c7da120-98f2-4668-b1d4-dafe32e361a3

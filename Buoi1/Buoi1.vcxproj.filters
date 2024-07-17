@@ -39,5 +39,8 @@
     <ClCompile Include="Bai8.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Bai9.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
