@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Kaiser\\Documents\\GitHub\\TH-KyThuatLapTrinh\\Buoi1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{824FE80F-8AC0-479B-959F-E43B2853DF26}|Buoi1.vcxproj|C:\\Users\\Kaiser\\Documents\\GitHub\\TH-KyThuatLapTrinh\\Buoi1\\Bai11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{824FE80F-8AC0-479B-959F-E43B2853DF26}|Buoi1.vcxproj|solutionrelative:Bai11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{824FE80F-8AC0-479B-959F-E43B2853DF26}|Buoi1.vcxproj|C:\\Users\\Kaiser\\Documents\\GitHub\\TH-KyThuatLapTrinh\\Buoi1\\Bai10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{824FE80F-8AC0-479B-959F-E43B2853DF26}|Buoi1.vcxproj|solutionrelative:Bai10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -55,19 +59,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Bai11.cpp",
+              "DocumentMoniker": "C:\\Users\\Kaiser\\Documents\\GitHub\\TH-KyThuatLapTrinh\\Buoi1\\Bai11.cpp",
+              "RelativeDocumentMoniker": "Bai11.cpp",
+              "ToolTip": "C:\\Users\\Kaiser\\Documents\\GitHub\\TH-KyThuatLapTrinh\\Buoi1\\Bai11.cpp",
+              "RelativeToolTip": "Bai11.cpp",
+              "ViewState": "AQIAAOkAAAAAAAAAAIAzwPMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-17T08:58:16.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Bai10.cpp",
               "DocumentMoniker": "C:\\Users\\Kaiser\\Documents\\GitHub\\TH-KyThuatLapTrinh\\Buoi1\\Bai10.cpp",
               "RelativeDocumentMoniker": "Bai10.cpp",
               "ToolTip": "C:\\Users\\Kaiser\\Documents\\GitHub\\TH-KyThuatLapTrinh\\Buoi1\\Bai10.cpp",
               "RelativeToolTip": "Bai10.cpp",
-              "ViewState": "AQIAABUAAAAAAAAAAIAzwCAAAAAAAAAA",
+              "ViewState": "AQIAADMAAAAAAAAAAAA3wEEAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-07-17T08:53:05.159Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Bai9.cpp",
               "DocumentMoniker": "C:\\Users\\Kaiser\\Documents\\GitHub\\TH-KyThuatLapTrinh\\Buoi1\\Bai9.cpp",
               "RelativeDocumentMoniker": "Bai9.cpp",
@@ -80,7 +97,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Bai8.cpp",
               "DocumentMoniker": "C:\\Users\\Kaiser\\Documents\\GitHub\\TH-KyThuatLapTrinh\\Buoi1\\Bai8.cpp",
               "RelativeDocumentMoniker": "Bai8.cpp",
@@ -93,7 +110,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Bai7.cpp",
               "DocumentMoniker": "C:\\Users\\Kaiser\\Documents\\GitHub\\TH-KyThuatLapTrinh\\Buoi1\\Bai7.cpp",
               "RelativeDocumentMoniker": "Bai7.cpp",
@@ -106,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Bai6.cpp",
               "DocumentMoniker": "C:\\Users\\Kaiser\\Documents\\GitHub\\TH-KyThuatLapTrinh\\Buoi1\\Bai6.cpp",
               "RelativeDocumentMoniker": "Bai6.cpp",
@@ -119,7 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Bai5.cpp",
               "DocumentMoniker": "C:\\Users\\Kaiser\\Documents\\GitHub\\TH-KyThuatLapTrinh\\Buoi1\\Bai5.cpp",
               "RelativeDocumentMoniker": "Bai5.cpp",
@@ -132,7 +149,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Bai4.cpp",
               "DocumentMoniker": "C:\\Users\\Kaiser\\Documents\\GitHub\\TH-KyThuatLapTrinh\\Buoi1\\Bai4.cpp",
               "RelativeDocumentMoniker": "Bai4.cpp",
@@ -145,7 +162,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Bai3.cpp",
               "DocumentMoniker": "C:\\Users\\Kaiser\\Documents\\GitHub\\TH-KyThuatLapTrinh\\Buoi1\\Bai3.cpp",
               "RelativeDocumentMoniker": "Bai3.cpp",
@@ -158,7 +175,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Bai2.cpp",
               "DocumentMoniker": "C:\\Users\\Kaiser\\Documents\\GitHub\\TH-KyThuatLapTrinh\\Buoi1\\Bai2.cpp",
               "RelativeDocumentMoniker": "Bai2.cpp",
@@ -170,7 +187,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Bai1.cpp",
               "DocumentMoniker": "C:\\Users\\Kaiser\\Documents\\GitHub\\TH-KyThuatLapTrinh\\Buoi1\\Bai1.cpp",
               "RelativeDocumentMoniker": "Bai1.cpp",

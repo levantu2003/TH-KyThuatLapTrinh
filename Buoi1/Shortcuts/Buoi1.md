@@ -47,3 +47,8 @@
     + Kết quả
 
     https://github.com/user-attachments/assets/d1f0bd26-2f98-41a8-9bc9-743cb7e7c642
+
++ Bài 11:
+    + Kết quả
+    
+    https://github.com/user-attachments/assets/5430620c-a4c9-484b-93cb-ef11a1b2ac87
