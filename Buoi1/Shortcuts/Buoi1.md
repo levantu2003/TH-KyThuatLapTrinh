@@ -27,3 +27,12 @@
 
       https://github.com/user-attachments/assets/f391ea0f-6522-40cd-a545-be0fcb2ee43a
 
++ Bài 3:
+    + Kết quả
+      
+        ![Screenshot (15)](https://github.com/user-attachments/assets/6de60a23-0f44-4107-a7e5-216e3128f9d7)
+
+    + Debug:
+
+      https://github.com/user-attachments/assets/55186fa1-8bb4-49ea-9f0c-50d86f8acaef
+
