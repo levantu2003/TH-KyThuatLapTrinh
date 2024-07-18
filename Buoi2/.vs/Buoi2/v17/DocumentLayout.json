@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Kaiser\\Documents\\GitHub\\TH-KyThuatLapTrinh\\Buoi2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A29752F6-B625-4050-B6EC-E0C725911D1E}|Buoi2.vcxproj|C:\\Users\\Kaiser\\Documents\\GitHub\\TH-KyThuatLapTrinh\\Buoi2\\Bai2_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A29752F6-B625-4050-B6EC-E0C725911D1E}|Buoi2.vcxproj|solutionrelative:Bai2_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A29752F6-B625-4050-B6EC-E0C725911D1E}|Buoi2.vcxproj|C:\\Users\\Kaiser\\Documents\\GitHub\\TH-KyThuatLapTrinh\\Buoi2\\Bai2_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A29752F6-B625-4050-B6EC-E0C725911D1E}|Buoi2.vcxproj|solutionrelative:Bai2_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Bai2_2.cpp",
+              "DocumentMoniker": "C:\\Users\\Kaiser\\Documents\\GitHub\\TH-KyThuatLapTrinh\\Buoi2\\Bai2_2.cpp",
+              "RelativeDocumentMoniker": "Bai2_2.cpp",
+              "ToolTip": "C:\\Users\\Kaiser\\Documents\\GitHub\\TH-KyThuatLapTrinh\\Buoi2\\Bai2_2.cpp",
+              "RelativeToolTip": "Bai2_2.cpp",
+              "ViewState": "AQIAAMIAAAAAAAAAAIAzwM8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-18T02:25:19.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Bai2_1.cpp",
               "DocumentMoniker": "C:\\Users\\Kaiser\\Documents\\GitHub\\TH-KyThuatLapTrinh\\Buoi2\\Bai2_1.cpp",
               "RelativeDocumentMoniker": "Bai2_1.cpp",
               "ToolTip": "C:\\Users\\Kaiser\\Documents\\GitHub\\TH-KyThuatLapTrinh\\Buoi2\\Bai2_1.cpp",
               "RelativeToolTip": "Bai2_1.cpp",
-              "ViewState": "AQIAALYAAAAAAAAAAIAzwLsAAAAAAAAA",
+              "ViewState": "AQIAAKwAAAAAAAAAAAAkwL0AAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-07-17T09:26:31.828Z",
               "EditorCaption": ""
