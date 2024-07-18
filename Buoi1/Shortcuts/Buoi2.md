@@ -2,23 +2,23 @@
 
 + Quick Sort:
 
-![](https://github.com/levantu2003/TH-KyThuatLapTrinh/tree/main/ThuatToan/Quick_Sort.gif)
+![](https://github.com/levantu2003/TH-KyThuatLapTrinh/blob/main/ThuatToan/Quick_Sort.gif)
 
-+ Interchrge Sort:
++ Intercharge Sort:
 
-![](https://github.com/levantu2003/TH-KyThuatLapTrinh/tree/main/ThuatToan/Intercharge_Sort.gif)
+![](https://github.com/levantu2003/TH-KyThuatLapTrinh/blob/main/ThuatToan/Intercharge_Sort.gif)
 
 + Selection Sort:
 
-![](https://github.com/levantu2003/TH-KyThuatLapTrinh/tree/main/ThuatToan/Selection_Sort.gif)
+![](https://github.com/levantu2003/TH-KyThuatLapTrinh/blob/main/ThuatToan/Selection_Sort.gif)
 
 + Linear Search:
 
-![](https://github.com/levantu2003/TH-KyThuatLapTrinh/tree/main/ThuatToan/Linear_Search.gif)
+![](https://github.com/levantu2003/TH-KyThuatLapTrinh/blob/main/ThuatToan/Linear_Search.gif)
 
 + Binary Search:
 
-![](https://github.com/levantu2003/TH-KyThuatLapTrinh/tree/main/ThuatToan/Binary_Search.gif)
+![](https://github.com/levantu2003/TH-KyThuatLapTrinh/blob/main/ThuatToan/Binary_Search.gif)
 
 <h1>Kết quả</h1>
 
