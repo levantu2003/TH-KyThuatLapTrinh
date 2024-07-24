@@ -205,7 +205,7 @@ int main() {
 
 	do {
 		Menu();
-		scanf_s("%d", &LuaChon);
+		scanf("%d", &LuaChon);
 
 		switch (LuaChon) {
 		case 1:
@@ -241,7 +241,7 @@ int main() {
 		{
 			PhanSo PS;
 			printf("Nhap Tu So va Mau So cua Phan So: ");
-			scanf_s("%d %d", &PS.TuSo, &PS.MauSo);
+			scanf("%d %d", &PS.TuSo, &PS.MauSo);
 			HonSo HS = chuyenPhanSoThanhHonSo(PS);
 			printf("Phan So chuyen thanh Hon So: ");
 			inHonSo(HS);
@@ -268,9 +268,9 @@ int main() {
 		{
 			int PhuongPhapSapXep, TangDan;
 			printf("Chon phuong phap sap xep (1: Doi cho truc tiep, 2: Chon, 3: Nhanh): ");
-			scanf_s("%d", &PhuongPhapSapXep);
+			scanf("%d", &PhuongPhapSapXep);
 			printf("Sap xep tang dan (1) hay giam dan (0)? ");
-			scanf_s("%d", &TangDan);
+			scanf("%d", &TangDan);
 			switch (PhuongPhapSapXep) {
 			case 1:
 				sapXepDoiChoTrucTiep(TangDan);

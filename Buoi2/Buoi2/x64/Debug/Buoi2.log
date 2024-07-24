@@ -1,2 +1,2 @@
-﻿  Bai2_2.cpp
-  Buoi2.vcxproj -> C:\Users\Kaiser\Documents\GitHub\TH-KyThuatLapTrinh\Buoi2\x64\Debug\Buoi2.exe
+﻿Bai2_2.obj : error LNK2005: main already defined in Bai2_1.obj
+C:\Users\Kaiser\Documents\GitHub\TH-KyThuatLapTrinh\Buoi2\x64\Debug\Buoi2.exe : fatal error LNK1169: one or more multiply defined symbols found
